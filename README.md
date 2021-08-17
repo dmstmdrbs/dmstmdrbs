@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dmstmdrbs/dmstmdrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=44eeaf&height=300&section=header&text=Seunggyun%20Eun&fontSize800&fontColor=636679&animation=fadeIn)
+
+### 🧑About me
+
+Recently I'm interested in <strong>front end development</strong>. So, I'm currently learning React.js and React Native.  
+
+
+I like to do <strong>💪weight training</strong> in the gym and <strong>🚴‍♀️ride a bike</strong>
 
 <!--
 ### 💻Algorithm Rate
