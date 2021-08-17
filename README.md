@@ -49,6 +49,5 @@ Techs that I can use
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
-<!--|     🏢 Internship      | 2020.01 ~ 2020.02 | HCI Laboratory of Ajou Univ.              | Ajou University |-->
 |      🏫 Education      |     2017.03 ~     | Department of software                    | Ajou University |
 
