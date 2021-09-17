@@ -43,7 +43,7 @@ Techs that I can use
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstmdrbs&layout=compact&langs_count=4&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstmdrbs&layout=compact&hide=C,C%2B%2B,Makefile&langs_count=4&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
