@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ### 🧑About me
 
-Recently I'm interested in <strong>front end development</strong>. So, I'm currently learning React.js and React Native.  
+ 🌱 I'm currently learning...  
+        - React.js and React Native  
+        - Parallel programming and CUDA Programming  
+        - Autonomotive Embeded system programming
+
 
 
 I like to do <strong>💪weight training</strong> in the gym and <strong>🚴‍♀️ride a bike</strong>
@@ -40,7 +44,6 @@ Techs that I can use
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstmdrbs&layout=compact&hide=C,C%2B%2B,Makefile&langs_count=4&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
