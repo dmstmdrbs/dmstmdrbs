@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ### 🧑About me
 
  🌱 I'm currently learning...  
-        - React.js and React Native  
-        - Parallel programming and CUDA Programming  
-        - Autonomotive Embeded system programming
+        - Vue.js
+        - GraphQL
+        - Algorithm
+<!--         - Parallel programming and CUDA Programming  
+        - Autonomotive Embeded system programming -->
 
 
 
