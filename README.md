@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 🧑About me
 
  🌱 I'm currently learning...  
-        - Vue.js
-        - GraphQL
-        - Algorithm
+        - Vue.js   
+        - GraphQL   
+        - Algorithm 
 <!--         - Parallel programming and CUDA Programming  
         - Autonomotive Embeded system programming -->
 
