@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=44eeaf&height=300&section=header&text=Seunggyun%20Eun&fontSize800&fontColor=636679&animation=fadeIn)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=44eeaf&height=300&section=header&text=Seunggyun%20Eun&fontSize800&fontColor=636679&animation=fadeIn)
+ -->
 ### 🧑About me
 
  🌱 I'm currently learning...  
