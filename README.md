@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### 🧑About me
 
  🌱 I'm currently learning...  
-        - Vue.js   
-        - GraphQL   
+        - Vue and React   
         - Algorithm 
 <!--         - Parallel programming and CUDA Programming  
         - Autonomotive Embeded system programming -->
@@ -56,5 +55,6 @@ Techs that I can use
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
-|      🏫 Education      |     2017.03 ~     | Department of software                    | Ajou University |
+|      🏫 Education      |     2017.03 ~     | Department of software                   | Ajou University |
+|      🏢Internship     |     2022.01 ~     | Front-end Developer                       | Dever corp.     |
 
