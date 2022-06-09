@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 ### 🧑About me
 
  🌱 I'm currently learning...  
-        - Vue and React   
+        - React & Next.js   
         - Algorithm 
-<!--         - Parallel programming and CUDA Programming  
-        - Autonomotive Embeded system programming -->
-
-
-
+ 
+ 
 I like to do <strong>💪weight training</strong> in the gym and <strong>🚴‍♀️ride a bike</strong>
 
 <!--
@@ -56,5 +53,6 @@ Techs that I can use
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
 |      🏫 Education      |     2017.03 ~     | Department of software                   | Ajou University |
-|      🏢Internship     |     2022.01 ~     | Front-end Developer                       | Dever corp.     |
+|      🏢Internship     |   2022.01 ~ 2022.05    | Front-end Developer                       | Dever corp.     |
+| 🎮 Activity | 2022.04 ~ | SW Maestro 13th | SW Maestro |
 
