@@ -51,7 +51,7 @@ Techs that I can use
 ### 📚 Experience
 
 |         Type          |       Date        | Contents                                  |  Organization   |
-| :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+| :-------------------: | :---------------: | :-----------------------------------------: | :-------------: |
 |      🏫 Education      |     2017.03 ~     | Department of software                   | Ajou University |
 |      🏢Internship     |   2022.01 ~ 2022.05    | Front-end Developer                       | Dever corp.     |
 | 🎮 Activity | 2022.04 ~ | SW Maestro 13th | SW Maestro |
