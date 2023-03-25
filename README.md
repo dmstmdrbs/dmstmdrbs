@@ -1,20 +1,5 @@
-<!--
-**dmstmdrbs/dmstmdrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=44eeaf&height=300&section=header&text=Seunggyun%20Eun&fontSize800&fontColor=636679&animation=fadeIn)
- -->
+Front-end Developer
+<!-- 
 ### 🧑About me
 
  🌱 I'm currently learning...  
@@ -23,12 +8,6 @@ Here are some ideas to get you started:
  
  
 I like to do <strong>💪weight training</strong> in the gym and <strong>🚴‍♀️ride a bike</strong>
-
-<!--
-### 💻Algorithm Rate
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dmstmdrbs)](https://solved.ac/dmstmdrbs)
--->
 
 ### 🛠Tech Stack🛠
 Techs that I can use
@@ -55,4 +34,6 @@ Techs that I can use
 |      🏫 Education      |     2017.03 ~     | Department of software                   | Ajou University |
 |      🏢Internship     |   2022.01 ~ 2022.05    | Front-end Developer                       | Dever corp.     |
 | 🎮 Activity | 2022.04 ~ 2022.12 | SW Maestro 13th | SW Maestro |
+| 🏢 Coporation | 2022.04 ~ 2022.12 | SW Maestro 13th | SW Maestro |
 
+ -->
