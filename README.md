@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstmdrbs&exclude_repo=BareMetal_TeamProject)](https://github.com/dmstmdrbs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dmstmdrbs&exclude_repo=BareMetal_TeamProject)](https://github.com/dmstmdrbs)
+
 <!-- 
 ### 📚 Experience
 
